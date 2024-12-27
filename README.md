@@ -1,6 +1,6 @@
 <h2> Hi, I'm Tarun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y3eDRybm1wNHd6b3hncjc4M2gyNnVpazM1aGcwamRuYnl2eTdwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p>Associate Software Engineer at <a href="https://www.accenture.com/in-en">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Data Engineer at <a href="https://www.accenture.com/in-en">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: mtnvdsk](https://img.shields.io/twitter/follow/mtnvdsk?style=social)](https://twitter.com/mtnvdsk)
