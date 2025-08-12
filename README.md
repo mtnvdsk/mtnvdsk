@@ -19,7 +19,7 @@ class profile:
     def profile(self):
         self.i["am"] = ["Tarun", "Associate Software Engineer"]
         self.i["love"] = ["Machine Learning", "DSA", "Mathematics", "Deep Learning"]
-        self.i["work With"] = ["Python", "Java", "AWS", "Docker", "Hadoop", "Linux"]
+        self.i["work With"] = ["Python", "Java", "AWS", "Docker", "Pyspark", "Linux", "DBT", "Data Governance", "GCP", "c++", "Reactjs"]
         self.i["aspire"] = ["Keep Learning........."]
 
 ```
